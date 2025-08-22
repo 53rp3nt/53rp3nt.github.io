@@ -1,1 +1,8 @@
-- name: Home  url: /   - name: Bug Bounty  url: /BB/   - name: About Me  url: /aboutme/   - name: Hacking 101   url: /hacking/
+- name: Home  
+url: /  
+- name: Bug Bounty
+url: /BB/
+- name: About Me
+url: /aboutme/
+- name: Hacking 101
+url: /hacking/
