@@ -1,3 +1,11 @@
-title: My IndieWeb Blog
-description: A personal blog on my own domain
+title: "My IndieWeb Blog"
+description: "Cybersecurity, Ethical Hacking & my journey"
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+url: "https://53rp3nt.github.io"   # change after domain is set
+author:
+  name: "53rp3nt"
+  url: "https://53rp3nt.github.io"
