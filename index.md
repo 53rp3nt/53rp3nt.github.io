@@ -1,2 +1,7 @@
-# Hello World
-This is my IndieWeb blog.
+---
+layout: home
+title: "Home"
+---
+
+Welcome to my IndieWeb blog. 🚀
+
