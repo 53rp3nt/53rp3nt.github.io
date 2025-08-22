@@ -1,3 +1,13 @@
+body {
+  font-family: "JetBrains Mono", monospace;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+  background: #fafafa;
+  color: #333;
+  line-height: 1.7;
+}
+
 .nav-list {
   display: flex;
   justify-content: center;
@@ -14,5 +24,25 @@
 }
 
 .nav-list a:hover {
-  color: #00aa88; /* accent color */
+  color: #00aa88;
+}
+
+.header-intro {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+header h1 {
+  font-size: 2.5rem;
+}
+
+.container {
+  padding: 0 1rem;
+}
+
+footer {
+  text-align: center;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #777;
 }
